@@ -11,6 +11,17 @@ on:
 
 jobs:
   qiita_sync_check:
+    permissions:
+      actions: write
+      checks: write
+      contents: write
+      deployments: write
+      issues: write
+      packages: write
+      pull-requests: write
+      repository-projects: write
+      security-events: write
+      statuses: write  
     name: qiita-sync check
     runs-on: ubuntu-latest
     steps:
