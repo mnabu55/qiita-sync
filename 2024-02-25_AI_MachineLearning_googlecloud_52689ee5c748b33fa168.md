@@ -1,6 +1,6 @@
 <!--
 title:   Google のAI機械学習講座「Introduction to AI and Machine Learning on Google Cloud」の概要
-tags:    AI,MachineLearning,googlecloud
+tags:    AI,GoogleCloud,MachineLearning
 id:      52689ee5c748b33fa168
 private: false
 -->

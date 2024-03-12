@@ -1,6 +1,6 @@
 <!--
 title:   Google Cloud Storage から CSV ファイルを Looker Studio にアップロードする
-tags:    LookerStudio,googlecloud
+tags:    GoogleCloud,LookerStudio
 id:      5ab5a008662a6d23187d
 private: false
 -->
