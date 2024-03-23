@@ -9,6 +9,7 @@ private: false
 Google が提供する A I機械学習講座「Machine Learning in the Enterprise」を学習しました。
 講座の中で、学習率とバッチサイズについて実践的な内容が説明されていたので、本記事にてご紹介します。
 
+
 講座: [Machine Learning in the Enterprise](https://partner.cloudskillsboost.google/paths/84/course_templates/9?locale=en)
 
 ![Screenshot 2024-03-20 at 16.01.27.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/55793/c673d59b-241a-beeb-f31a-19c063d51fbc.png)
